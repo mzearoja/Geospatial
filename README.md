@@ -1,4 +1,4 @@
-# Environmental Informatics
+# Informatics
 
 ## Assignment 03 - Using Python's Built-in Files and Data Structures
 
